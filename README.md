@@ -8,7 +8,7 @@
 
 <h2 align="center">Músicas Mais Ouvidas do Spotify Em 2023<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="15"> </h2>
 
-Repositório dedicado ao pré-processamento e análise exploratória do conjunto de dados referente às tendências musicais de 2023 conforme destacado no Spotify. Os dados utilizados para as análises estão disponíveis em [Most Streamed Spotify Songs 2023](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023).  
+Repositório dedicado ao pré-processamento e análise exploratória do conjunto de dados referente às tendências musicais de 2023 conforme destacado no Spotify. Os dados utilizados nas análises estão disponíveis em [Most Streamed Spotify Songs 2023](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023).  
 
 O texto referente aos resultados está disponível em [Pré-processamento e Análise Exploratória de Dados das Músicas Mais Ouvidas no Spotify em 2023](https://medium.com/@karoline.rayzel.rodrigues_4151/pr%C3%A9-processamento-e-an%C3%A1lise-explorat%C3%B3ria-de-dados-das-m%C3%BAsicas-mais-ouvidas-no-spotify-em-2023-6fcb33935d46)
 
