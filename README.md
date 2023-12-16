@@ -42,11 +42,11 @@ As análises realizadas neste repositório incluem:
 
 ## Conteúdo do Repositório
 
-  1. **Arquivo .xlsx:** Utilizado para fazer o pré-processamento dos dados.
+  1. **Arquivo .xlsx:** Pré-processamento dos dados.
  
-  2. **R Script:** Utilizados para análises exploratórias, visualizações de dados e plotagem de gráficos.
+  2. **R Script:** Análises exploratórias, visualizações de dados e plotagem de gráficos.
  
-  3. **PDF Dashboard:** Arquivo relacionado ao dashboard criado no Power BI para fornecer uma visualização interativa dos dados analisados.
+  3. **PDF Dashboard:** Dashboard criado no Power.
  
 ## Como usar
 
