@@ -46,7 +46,7 @@ As análises realizadas neste repositório incluem:
  
   2. **R Script:** Análises exploratórias, visualizações de dados e plotagem de gráficos.
  
-  3. **PDF Dashboard:** Dashboard criado no Power.
+  3. **PDF Dashboard:** Dashboard criado no Power BI.
  
 ## Como usar
 
